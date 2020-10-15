@@ -1,1 +1,1 @@
-# -MOOC-Tensorflow-2-
+# 中国大学MOOC《人工智能实践：Tensorflow 2》源代码
